@@ -1,0 +1,35 @@
+.header {
+  min-height: 60px;
+  display: flex;
+  align-content: center;
+  background-color: #233237;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 40px;
+  h1 {
+    margin: 0;
+
+    a {
+      display: flex;
+      flex-direction: column;
+    }
+  }
+
+  .title {
+    font-size: 30px;
+    font-weight: 400;
+  }
+
+  .subtitle {
+    font-size: 14px;
+    font-weight: normal;
+  }
+
+  .right-panel {
+    a {
+      margin-right: 30px;
+    }
+  }
+}

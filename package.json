@@ -1,0 +1,21 @@
+{
+  "name": "personal-site",
+  "description": "A space for me",
+  "version": "0.1.0",
+  "author": "Erik Cohen",
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "keywords": [
+    "gatsby",
+    "blog"
+  ],
+  "license": "MIT",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cohenpts/cohenpts.github.io"
+  }
+}
